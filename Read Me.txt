@@ -7,7 +7,8 @@
 --> Project 1 --> (Neural Network for Fruit Classification using Python)
 
 -> Note:
--- The neural network code is not fully running due to a depreciated scipy library. This was done in 2019.
+-- The neural network code is not fully running due to a depreciated scipy library. Please note This was done in 2019 & library now has
+-- Has been updated.
 -- However, the GUI will be clearly visible with the ability to upload the image.
 
 -> Production tools:
