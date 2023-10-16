@@ -1,0 +1,21 @@
+- Built By: Abdullah Alsiddig
+- 
+
+--> These are all the projects codes I have developed. 
+
+
+--> Project 1 --> (Neural Network for Fruit Classification using Python)
+
+-> Note:
+-- The neural network code is not fully running due to a depreciated scipy library. This was done in 2019.
+-- However, the GUI will be clearly visible with the ability to upload the image.
+
+-> Production tools:
+-- Built using Python 3.6
+-- Libraries used:
+-   Scipy (Depriciated)
+-   OpenCV
+-   Keras
+-   TensorFlow
+-   Numpy
+-   PyQt5
